@@ -25,4 +25,18 @@ Create wireframe for the same website as desktop but for mobile size (Choose fra
 
 Instead of using boxes that illustrate content, add text and images to the design instead.
 
+----------------------------------------------------------------------------------------------------------------------------
+
+**Resources**
+
+https://www.figma.com/design/MEa1oyE88cjq51GMqKuS05/Figma-Basics?node-id=0-286&t=oam4Y9rrserUzS61-0
+
+https://www.figma.com/design/NMO8Wtu5wL6dB1Fi8IfFTg/Figma-Wireframing?node-id=0-1&node-type=canvas&t=f9xc9ZdoqYVCSiEP-0
+
+https://www.figma.com/about/
+
+https://www.figma.com/design/vODkxXT8KRcjIG7KhN6t0X/Kodeloftet-undervisning-6?node-id=0-1&node-type=canvas&t=cWc9cBIo2KM9VygL-0
+
+https://www.figma.com/design/9uINWTEuCQh3g8hnvFMlwn/Min-kokebok-Kodeloftet?node-id=19-41&node-type=frame&t=7aLejs3lSNe1mWUS-0
+
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/sharmababita/Kodeloftet_Dag6)
